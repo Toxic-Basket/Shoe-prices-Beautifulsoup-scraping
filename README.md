@@ -1,7 +1,7 @@
 # Shoe-prices-Beautifulsoup-scraping
 
   <p align="center">
-    Free shoe price sraper
+    Free shoe price scraper
   
 
 
