@@ -1,4 +1,4 @@
-# Shoe-prices-Beautifulsoup-scraping
+# Shoe-prices-scraping-with-Beautifulsoup
 
   <p align="center">
     Free shoe price scraper
