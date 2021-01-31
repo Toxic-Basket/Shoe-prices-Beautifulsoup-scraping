@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 With the shoe price scrapper you can search shoe prices without opening your browser.
-It is only usabele for addidas shoes. But I'm workin on a universell version so it can be used for all shoes.
+It is only usabele for puma shoes. But I'm workin on a universell version so it can be used for all shoes.
 
 ### Prerequisites
 Follow the link bellow to install python
